@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "471295275392",
+    "project_id": "push-message-c66b0",
+    "storage_bucket": "push-message-c66b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:471295275392:android:3d47db56ae0a570c641165",
+        "android_client_info": {
+          "package_name": "com.pushmessage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "471295275392-99bik5ru87nelser6uedkqeduo5n7baa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuanbrZlQAsYOVTUFXoZOz82R50z0DKS8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "471295275392-99bik5ru87nelser6uedkqeduo5n7baa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
